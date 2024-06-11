@@ -1,0 +1,78 @@
+header{
+    background-color: #009908;
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.navutama{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav1{
+    padding-top: 0px;
+    padding-bottom: 10px;
+}
+.pemilik{
+    padding-top: 0px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.sosmed{
+    padding-right: 20px;
+}
+.sosial-media {
+    width: 30px; /* Sesuaikan ukuran logo sosial media */
+    height: 30px;
+    margin: 0 10px; /* Jarak antara logo sosial media */
+}
+
+.container{
+    margin-top: 100px;
+}
+
+.pendidikan{
+    padding-top: 200px;
+}
+
+.tombolcv{
+    background-color: #ff4d00;
+    padding: 15px 40px;
+    color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 25px;
+}
+
+.materi{
+    padding-top: 75px;
+}
+.biodata{
+    padding-top: 0px;
+    display: flex;
+    align-items: center;
+    padding-left: 50px;
+}
+
+.rincian{
+    text-align: justify;
+    padding-top: 50px;
+}
+.datadiri{
+    padding-left: 20px;
+}
+
+footer{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.kritik{
+    align-items: center;
+    justify-content: center;
+}
+
+.navkritik{
+    display: flex;
+    padding-top: 10px;
+}
